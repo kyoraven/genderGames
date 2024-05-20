@@ -25,4 +25,5 @@ https://nbviewer.org/github/kyoraven/genderGames/blob/code/A3_Projections.ipynb
 https://nbviewer.org/github/kyoraven/genderGames/blob/code/A3_Readability.ipynb
 
 https://nbviewer.org/github/kyoraven/genderGames/blob/code/A3_SteamDataScrape.ipynb
+
 https://nbviewer.org/github/kyoraven/genderGames/blob/code/A3_T_test.ipynb
